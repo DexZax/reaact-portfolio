@@ -293,3 +293,41 @@ a {
 .navActive {
   color: var(--secondary);
 }
+
+.work-box {
+  padding: 5px;
+  border: solid 3px;
+  width: 100%;
+  margin: 1%;
+  border-radius: 10px;
+  display: flex;
+  height: 100px;
+
+}
+
+
+.dnd {
+  background-image: url(./assets/images/Desktop\ Screenshot\ 2022.06.22\ -\ 18.20.02.42.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.work {
+  display: flex;
+  flex: 2 50%;
+  align-items: center;
+  padding: 20px;
+  width: 40%;
+  margin: 1%;
+
+  
+}
+
+.work-section {
+  margin-left: 75px;
+  background-color: var(--secondary-color);
+}
+
+.PText {
+  color: #000000;
+}
