@@ -4,7 +4,9 @@ function About() {
   return (
     <section>
       <h1 id="about">About Me</h1>
-      <p>lorem blah blah kjsahdfp kalsjdh skjdhf kjshfk shkfh kshfkaskfhalskjhd flksjhfkashfksh fkshkfahskfhskfhshjfk   khs ks kfsk s s ks ksd kjs ksd ksd kfsk sd sd ksa aksd ks sk ksd fksjhdfkshf ksd ksadkf hksdahf ksdf kjs ksaj fksdf kashfklasf k akjh kjs fksdkh fasdkdj kajsd fkjsa ksdh ksdfkj kjas kask haskldf haskjfas hjaskf haskdf 
+      <p>       I am currently working through the computer coding bootcamp at UofT, and I am excited for what is to come. 
+                I am a sales representative for SMT Industrial Sipply, Inc. <br/>I plan to take over the e-commerce and onine marketing devisions as well as 
+                update and improve upon our current websites. 
       </p>
     </section>
   );

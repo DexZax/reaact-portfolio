@@ -3,6 +3,7 @@ main {
 	margin: 0 auto;
 	max-width: 90%;
   padding: 50px 30px;
+  height: 750px;
 }
 :root {
   --primary: #8c54ff;
@@ -330,4 +331,15 @@ a {
 
 .PText {
   color: #000000;
+}
+
+footer {
+  width: 100%;
+  padding: 40px 35px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  padding-left: 700px;
+  padding-right: 700px;
 }

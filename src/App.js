@@ -43,6 +43,10 @@ function App() {
           {renderPage()}
         </div>
       </main>
+      <footer>
+        <div><a href="https://www.linkedin.com/in/dexter-zacour-b64878251/" target = "_blank">linkedin</a></div>
+        <div><a href="https://github.com/DexZax" target = "_blank">GitHub</a></div>
+      </footer>
     </div>
   );
 }
