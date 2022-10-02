@@ -46,6 +46,7 @@ function App() {
       <footer>
         <div><a href="https://www.linkedin.com/in/dexter-zacour-b64878251/" target = "_blank">linkedin</a></div>
         <div><a href="https://github.com/DexZax" target = "_blank">GitHub</a></div>
+        <div><a href= "https://stackoverflow.com/users/18647806/dexter-zacour" target= "_blank">stackoverflow</a></div>
       </footer>
     </div>
   );
