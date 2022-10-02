@@ -7,7 +7,7 @@ My Portfolio using react!
 
 ## Installation
 
-pull from my loacl repo
+pull from my local repo
 
 in your terminal run:
 
